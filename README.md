@@ -80,6 +80,7 @@ Ensure the dataset includes the following features:
 - **City** (e.g., Mumbai, Bangalore)
 - **Area** (in square feet)
 - **Number of Bathrooms**
+![Screenshot (115)](https://github.com/user-attachments/assets/8b3cc277-578d-4cea-9fa0-d4bfa027f760)
 
 Preprocess the dataset to include derived features such as:
 - **Log-transformed Area**
@@ -88,6 +89,7 @@ Preprocess the dataset to include derived features such as:
 ---
 
 ## **Performance Metrics**
+![Screenshot (114)](https://github.com/user-attachments/assets/aa1092a2-92e8-41f3-aa05-4e6d06d6e68f)
 
 - **Root Mean Squared Error (RMSE)**: ₹00.01
 - **R² Score**: 0.9998
